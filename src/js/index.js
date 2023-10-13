@@ -13,5 +13,6 @@ button.addEventListener("click", ()=>{
         button.style.color= "#35060f"
         mode = false;
 
+        
     }
 })
